@@ -7,7 +7,12 @@ public class Driver {
 		Glad.glad();
 		Hungry.hungry();
 		Sad.sad();
+<<<<<<< HEAD
 		Glad.notGlad();
+=======
+		
+		Glad.glad2();
+>>>>>>> BatoulsBranch
 	}
 
 }
